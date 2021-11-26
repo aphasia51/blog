@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Aphasia&#39;s website</title>
+        <link>http://www.aphasia.top/categories/</link>
+        <description>Categories - Category - Aphasia&#39;s website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aphasia51@gmail.com (Aphasia)</managingEditor>
+            <webMaster>aphasia51@gmail.com (Aphasia)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 24 Nov 2021 15:43:47 &#43;0800</lastBuildDate><atom:link href="http://www.aphasia.top/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Golang</title>
+    <link>http://www.aphasia.top/categories/golang/</link>
+    <pubDate>Wed, 24 Nov 2021 15:43:47 &#43;0800</pubDate><author>
+        <name>Aphasia</name>
+    </author><guid>http://www.aphasia.top/categories/golang/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
