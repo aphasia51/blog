@@ -4,21 +4,16 @@
         <link>http://www.aphasia.top/</link>
         <description>The official documentation for the Hugo DoIt theme</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>aphasia51@gmail.com (Aphasia)</managingEditor>
-            <webMaster>aphasia51@gmail.com (Aphasia)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 24 Nov 2021 15:43:47 &#43;0800</lastBuildDate>
+            <webMaster>aphasia51@gmail.com (Aphasia)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="http://www.aphasia.top/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First_post</title>
-    <link>http://www.aphasia.top/posts/first_post/</link>
-    <pubDate>Wed, 24 Nov 2021 15:43:47 &#43;0800</pubDate><author>
-        <name>Aphasia</name>
-    </author><guid>http://www.aphasia.top/posts/first_post/</guid>
-    <description><![CDATA[<p>这是测试文章!~~</p>]]></description>
-</item><item>
-    <title>Why not comment?</title>
-    <link>http://www.aphasia.top/posts/test/</link>
+    <title>用装饰器装起来～</title>
+    <link>http://www.aphasia.top/posts/decorator/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>Aphasia</name>
-    </author><guid>http://www.aphasia.top/posts/test/</guid>
-    <description><![CDATA[<p>use comment?</p>]]></description>
+    </author><guid>http://www.aphasia.top/posts/decorator/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://pic2.zhimg.com/80/v2-7bbee96bb784c204114b8bacbde826e6_720w.jpg" referrerpolicy="no-referrer">
+            </div><p>装饰器作为Python重要部分之一，是必须掌握的知识点。学会了就能马上装起来😄</p>]]></description>
 </item></channel>
 </rss>
